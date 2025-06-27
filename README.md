@@ -9,4 +9,4 @@
 - [ ] 3. 使用uv或pnpm管理项目，使用bootstrap.sh启动项目
 - [ ] 4. 针对test目录的 test_image.png, test_video.mp4, test_audio.mp3 进行测试
 - [ ] 5. 使用openai兼容接口进行ollama的调用，配置代理和no_proxy，创建.env存储endpoint, api key，model， 代理和no_proxy,ssl certificate默认设置为否。
-- [ ] 6.
+- [ ] 6. 需要添加audio处理模块，阅读文档 [audio](https://ai.google.dev/gemma/docs/capabilities/audio)
